@@ -8,6 +8,7 @@ An interactive Tableau dashboard exploring property assessment data across Calga
 
 **Source:** [City of Calgary Open Data – Current Year Property Assessments (Parcel)](https://data.calgary.ca/)  
 **Search** Current Year Property Assessments (Parcel)
+
 **Snapshot:** July 6, 2026 (dataset updates daily)  
 **Records:** 604,479 properties across Calgary
 
